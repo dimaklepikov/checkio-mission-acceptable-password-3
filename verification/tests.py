@@ -39,10 +39,9 @@ TESTS = {
             "input": ["this is password"],
             "answer": False
         },
-        
         {
-            "input": ["1234A"],
-            "answer": False
+            "input": ["123456A"],
+            "answer": True
         }
     ]
 }
